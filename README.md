@@ -1,5 +1,38 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## List of ReactJS Concepts
+1. Components
+2. Setting Up the Project
+2. Your First React Component
+2. Specifying Children
+2. Embedding Expressions
+2. Setting Attributes
+2. Rendering Classes Dynamically
+2. Rendering Lists
+2. Conditional Rendering
+2. Handling Events
+2. Binding Event Handlers
+2. Updating the State
+2. What Happens When State Changes 
+2. Passing Event Arguments
+2. Composing Components
+2. Passing Data to Components
+2. Passing Children
+2. Debugging React Apps
+2. Props vs State
+2. Raising and Handling Events
+2. Updating the State
+2. Single Source of Truth
+2. Removing the Local State
+2. Multiple Components in Sync 
+2. Lifting the State Up
+2. Stateless Functional Components
+2. Destructuring Arguments
+2. Lifecycle Hooks
+2. Mounting Phase 
+2. Updating Phase 
+2. Unmounting Phase
+
 ## Available Scripts
 
 In the project directory, you can run:
