@@ -5,8 +5,8 @@ const Navbar = ({ totalCounters }) => {
   return (
     <nav className="navbar navbar-light bg-light">
       <a href="" className="navbar-brand">
-        Navbar
-        <span className="badge badge-pill badge-secondary">
+        Shopping Cart
+        <span className="badge badge-pill badge-secondary ml-2">
           {totalCounters}
         </span>
       </a>
